@@ -1,0 +1,46 @@
+.post {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    box-shadow: 0 2px 2px rgba(255, 255, 255, 0.1);
+    padding: 1rem;
+    margin-bottom: 1rem;
+    margin: 20px;
+    background-image: url("https://wallpapers.com/images/high/gold-arsenal-logo-qumrruir7u0cz17l.webp"); /* Replace with your image URL */
+    background-size: cover; /* Adjust to your preference */
+    background-position: center center; /* Adjust to your preference */
+    
+  }
+  
+  
+  .post-username {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin: 0;
+    margin-bottom: 5rem;
+    color: #ffffff;
+    outline-color: black;
+  } 
+  
+  .post-message {
+    margin: 0;
+    margin-bottom: 4rem;
+    color: #ffffff;
+  }
+  
+  .post-timestamp {
+    color: #ffffff;
+    font-size: 0.8rem;
+    margin: 0;
+  }
+
+  .post-message1 {
+    margin: 0;
+    margin-bottom: 4rem;
+    color: #ffffff;
+    color-scheme: black;
+  }
+
+
+  
+  
